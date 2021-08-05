@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "考研资讯",
+  "usingComponents": {
+    "foo-bar": "/components/fooBar/fooBar",
+    "square": "/pages/Square/Square",
+    "info": "/pages/real_timeInfo/real_timeInfo",
+    "search": "/pages/Search/Search",
+    "college": "/pages/college/college",
+    "mine": "/pages/Mine/Mine"
+  }
+}

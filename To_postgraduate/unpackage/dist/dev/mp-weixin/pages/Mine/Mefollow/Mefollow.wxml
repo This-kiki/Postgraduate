@@ -1,0 +1,1 @@
+<view><block wx:for="{{userList}}" wx:for-item="item" wx:for-index="__i0__"><view class="user-list"><card-user vue-id="{{'6c3818cc-1-'+__i0__}}" value="{{item}}" bind:__l="__l"></card-user></view></block></view>

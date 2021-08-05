@@ -1,0 +1,1 @@
+<view><block wx:for="{{value}}" wx:for-item="val" wx:for-index="__i0__"><view data-event-opts="{{[['tap',[['go',['$0'],[[['value','',__i0__,'cid']]]]]]]}}" class="info-card" bindtap="__e"><image class="info-arrow" src="{{'../../static/arrows/'+$root.m0+'.png'}}" mode></image><view class="info-content">{{''+val.title+''}}</view></view></block></view>

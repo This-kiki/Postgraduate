@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "高校咨询",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "pxing-picker": "/components/pxing-picker/pxing-picker",
+    "card-info": "/components/cardInfo/cardInfo"
+  }
+}

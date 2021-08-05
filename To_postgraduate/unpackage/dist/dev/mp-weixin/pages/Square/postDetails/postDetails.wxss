@@ -1,0 +1,123 @@
+
+.pd-title {
+	padding: 20rpx 30rpx;
+	font-size: 32rpx;
+	font-weight: 600;
+}
+.pd-writer {
+	padding: 10px 80rpx;
+	height: 80rpx;
+	border-bottom: 1rpx solid #d8d8d8;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.head-i {
+	height: 60rpx; 
+	width: 60rpx;
+	border-radius: 20rpx;
+}
+.pow-writer {
+	width: 60vw;
+}
+.po-nikename {
+	font-size: 20rpx;
+	color: #585858;
+}
+.pd-posytime {
+	font-size: 18rpx;
+	color: #acacac;
+}
+.pd-concent {
+	padding: 50rpx 40rpx;
+	line-height: 50rpx;
+	border-bottom: 1rpx solid #d8d8d8;
+}
+.pow-like {
+	width: 35rpx;
+	height: 35rpx;
+}
+.po-review {
+	padding: 10rpx 40rpx;
+}
+.rw-head {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding: 20rpx 0;
+}
+.rw-head-img {
+	width: 10rpx;
+	height: 10rpx;
+	margin-right: 15rpx;
+}
+.review-card {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	margin-bottom: 10rpx;
+}
+.rw-writer {
+	font-size: 24rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.rw-time {
+	font-size: 20rpx;
+	color: #b1b1b1;
+}
+.rw-concent {
+	padding-left: 25rpx;
+	font-size: 22rpx;
+	color: #505050;
+	padding-bottom: 10rpx;
+	border-bottom: 1rpx solid #f1f1f1;
+}
+.write {
+  position: fixed;
+  bottom: 300rpx;
+  right: 80rpx;
+  z-index: 1;
+  width: 40rpx;
+  height: 40rpx;
+  border-radius: 100rpx;
+  padding: 25rpx;
+  background-color: #cacaca;
+}
+.po-img {
+	margin: 2vw;
+	width: 95vw;
+}
+

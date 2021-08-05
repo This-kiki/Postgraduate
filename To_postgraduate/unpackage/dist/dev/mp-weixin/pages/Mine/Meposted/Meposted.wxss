@@ -1,0 +1,9 @@
+
+.body {
+	min-height: 100vh;
+	background-color: #F8F8F8;
+}
+.me-falb {
+	padding: 0px 16rpx;
+}
+

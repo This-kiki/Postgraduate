@@ -1,0 +1,87 @@
+
+.card {
+	font-family: YouYuan;
+	width: 100%;
+	height: 120rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	border-bottom: 0.1rpx inset rgb(233,233,233);
+}
+.h_m {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.head-img {
+	margin: 0 20rpx;
+	height: 90rpx;
+	width: 90rpx;
+	border-radius: 50rpx;
+}
+.middle {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.name {
+	font-size: 25rpx;
+	font-weight: 600;
+	color: rgb(224,103,30);
+}
+.college {
+	color: rgb(150, 150, 150);
+	font-size: 20rpx;
+	margin-top: 15rpx;
+}
+.tile {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	border-radius: 40rpx;
+	padding: 5rpx 12rpx;
+	border: 1px solid rgb(213, 213, 213);
+	font-size: 22rpx;
+	margin-right: 20rpx;
+	color: rgb(110,110,110);
+}
+.tile-n {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	border-radius: 40rpx;
+	padding: 10rpx 15rpx;
+	border: 1px solid rgb(224,103,30);
+	font-size: 22rpx;
+	margin-right: 20rpx;
+	color: rgb(224,103,30);
+}
+.fllow-icon {
+	height: 32rpx;
+	width: 32rpx;
+}
+.fllow-icon-n {
+	height: 20rpx;
+	width: 20rpx;
+	margin-right: 5rpx;
+}
+

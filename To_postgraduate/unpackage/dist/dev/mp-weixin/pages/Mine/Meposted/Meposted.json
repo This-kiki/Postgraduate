@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "我发布的",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card-post": "/components/cardPost/cardPost"
+  }
+}

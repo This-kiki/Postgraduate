@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "地区高校",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "load-refresh": "/components/load-refresh/load-refresh",
+    "card-university": "/components/cardUniversity/cardUniversity"
+  }
+}

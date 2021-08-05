@@ -1,0 +1,1 @@
+<view class="un-card"><image class="un-logo" src="{{value.img}}" mode="left"></image><image class="un-toimg" src="../../static/icon/notest.png" mode="left"></image></view>

@@ -1,0 +1,1 @@
+<view class="body"><block wx:for="{{postList}}" wx:for-item="item" wx:for-index="__i0__"><view data-event-opts="{{[['tap',[['go',['$0'],[[['postList','',__i0__,'id']]]]]]]}}" class="me-falb" bindtap="__e"><card-post vue-id="{{'80bcdb4c-1-'+__i0__}}" value="{{item}}" bind:__l="__l"></card-post></view></block></view>

@@ -1,0 +1,1 @@
+<view class="body"><block wx:if="{{openid}}"><web-view webview-styles="{{webviewStyles}}" src="{{'https://gjwstudy.xyz/post/#/?openid='+openid+'&type=1'}}" bindmessage="handleGetMessage"></web-view></block></view>

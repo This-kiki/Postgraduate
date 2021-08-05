@@ -1,0 +1,40 @@
+
+.m-body {
+	min-height: 100vh;
+	background-color: rgb(244,245,246);
+}
+.m-input {
+	padding: 20rpx 0;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: start;
+	-webkit-align-items: flex-start;
+	        align-items: flex-start;
+}
+.msg-key {
+	padding-left: 3vw;
+	margin-bottom: 15rpx;
+	font-size: 30rpx;
+	font-weight: 600;
+}
+.msg-value {
+	padding-left: 3vw;
+	height: 80rpx;
+	width: 97vw;
+	background-color: rgb(255,255,255);
+}
+.msg-value_t {
+	padding-left: 3vw;
+	height: 200rpx;
+	width: 97vw;
+	background-color: rgb(255,255,255);
+}
+.post-btn {
+	margin: 10rpx 20rpx;
+}
+

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card-university": "/components/cardUniversity/cardUniversity",
+    "card-post": "/components/cardPost/cardPost"
+  }
+}

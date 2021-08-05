@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/index/index",
+    "pages/real_timeInfo/real_timeInfo",
+    "pages/Square/Square",
+    "pages/Search/Search",
+    "pages/Mine/Mine",
+    "pages/real_timeInfo/collegesInfo/collegesInfo",
+    "pages/Mine/followMe/followMe",
+    "pages/Mine/Mefollow/Mefollow",
+    "pages/Square/postDetails/postDetails",
+    "pages/Mine/Meposted/Meposted",
+    "pages/Mine/Mefabulous/Mefabulous",
+    "pages/Mine/personalInfo/personalInfo",
+    "pages/real_timeInfo/college_introduction/college_introduction",
+    "pages/real_timeInfo/collegeList/collegeList",
+    "pages/real_timeInfo/col_calss/col_calss",
+    "pages/Search/searchPage/searchPage",
+    "pages/real_timeInfo/col_class_msg/col_class_msg",
+    "pages/real_timeInfo/col_class_msg2/col_class_msg2",
+    "pages/Square/Posts/Posts",
+    "pages/Square/review/review"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

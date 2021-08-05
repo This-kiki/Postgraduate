@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "高校资讯",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "load-refresh": "/components/load-refresh/load-refresh",
+    "card-info2": "/components/cardInfo_2/cardInfo_2"
+  }
+}
